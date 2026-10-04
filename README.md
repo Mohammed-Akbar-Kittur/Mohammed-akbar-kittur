@@ -9,6 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -19,7 +20,7 @@ I'm a DevOps Engineer passionate about building resilient, cost-optimized archit
 
 I focus on real-world implementations: Multi-AZ fault tolerance, zero-downtime migrations, and proactive monitoring with CloudWatch + SNS.
 
-- 🔭 Currently practicing: AWS (VPC, ALB, ASG, RDS, S3, Route53), Terraform, Docker, Kubernetes
+- 🔭 Currently practicing: AWS (VPC, ALB, ASG, RDS, S3, Route53), Terraform, Docker, Kubernetes, Jenkins
 - 🌱 Learning: EKS, CI/CD with Jenkins & GitHub Actions
 - 📍 Based in Bengaluru, India
 
@@ -41,6 +42,7 @@ I focus on real-world implementations: Multi-AZ fault tolerance, zero-downtime m
 
 **IaC & CI/CD & Build**
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
