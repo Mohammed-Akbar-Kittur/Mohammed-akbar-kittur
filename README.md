@@ -95,5 +95,5 @@ Industry-standard secure architecture with separation of concerns.
 
 ### 📫 Connect with me
 - LinkedIn: linkedin.com/in/mohammed-akbar-kittur
-- Email: akbarkittur@email.com
+- Email: kitturmohammedakbar@gmail.com
 - Location: Bengaluru, India
