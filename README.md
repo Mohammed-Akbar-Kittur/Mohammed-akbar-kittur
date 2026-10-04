@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Mohammed Akbar Kittur
 
-**DevOps Engineer | AWS Cloud Practitioner | Linux Administrator** - Bengaluru, India
+**DevOps Engineer | AWS Solution Architect | Linux Administrator** - Bengaluru, India
 
 > Building highly available AWS architectures · Automating infrastructure · Documenting real-world DevOps labs
 
